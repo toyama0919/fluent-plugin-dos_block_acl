@@ -3,8 +3,8 @@
 Gem::Specification.new do |gem|
   gem.name          = "fluent-plugin-dos_block_acl"
   gem.version       = "0.0.2"
-  gem.summary       = %q{DosBlockAcl plugin for fluentd}
-  gem.description   = %q{DosBlockAcl plugin for fluentd}
+  gem.summary       = %q{access block by aws network acl.}
+  gem.description   = %q{access block by aws network acl.}
   gem.license       = "MIT"
   gem.authors       = ["Hiroshi Toyama"]
   gem.email         = "toyama0919@gmail.com"
