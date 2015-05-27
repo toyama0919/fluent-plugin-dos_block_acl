@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gem|
   gem.name          = "fluent-plugin-dos_block_acl"
-  gem.version       = "0.0.1"
+  gem.version       = "0.0.2"
   gem.summary       = %q{DosBlockAcl plugin for fluentd}
   gem.description   = %q{DosBlockAcl plugin for fluentd}
   gem.license       = "MIT"
