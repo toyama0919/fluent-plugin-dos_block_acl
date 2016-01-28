@@ -6,3 +6,4 @@ pkg/
 .bundle/
 vendor/bundle/
 .tags
+tmp/
