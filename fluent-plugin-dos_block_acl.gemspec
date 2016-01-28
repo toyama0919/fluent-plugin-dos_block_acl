@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gem|
   gem.name          = "fluent-plugin-dos_block_acl"
-  gem.version       = "0.0.2"
+  gem.version       = "0.0.3"
   gem.summary       = %q{access block by aws network acl.}
   gem.description   = %q{access block by aws network acl.}
   gem.license       = "MIT"
