@@ -15,9 +15,9 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ['lib']
 
-  gem.add_runtime_dependency "aws-sdk", '~> 1.38'
-  gem.add_development_dependency 'bundler', '~> 1.7.2'
-  gem.add_development_dependency 'fluentd', '~> 0.10.58'
+  gem.add_runtime_dependency "aws-sdk", '< 2'
+  gem.add_development_dependency 'bundler'
+  gem.add_development_dependency 'fluentd'
   gem.add_development_dependency 'pry', '~> 0.10.1'
   gem.add_development_dependency 'rake', '~> 10.3.2'
   gem.add_development_dependency 'rubocop', '~> 0.24.1'
