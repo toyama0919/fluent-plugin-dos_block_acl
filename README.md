@@ -1,4 +1,7 @@
-# fluent-plugin-dos_block_acl [![Build Status](https://secure.travis-ci.org/toyama0919/fluent-plugin-dos_block_acl.png?branch=master)](http://travis-ci.org/toyama0919/fluent-plugin-dos_block_acl)
+# fluent-plugin-dos_block_acl
+
+[![Build Status](https://secure.travis-ci.org/toyama0919/fluent-plugin-dos_block_acl.png?branch=master)](http://travis-ci.org/toyama0919/fluent-plugin-dos_block_acl)
+[![Gem Version](https://badge.fury.io/rb/fluent-plugin-dos_block_acl.svg)](https://badge.fury.io/rb/fluent-plugin-dos_block_acl)
 
 access block by aws network acl.
 
